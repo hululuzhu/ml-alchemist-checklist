@@ -1,1 +1,3 @@
-This colab lists 30+ ML training/modeling skills
+# This colab lists 30+ ML training/modeling skills
+- Training, e.g. learning rate, optimizer, batch_size, label smooth, gradient clipping, weight decay...
+- Modeling, e.g. feature engineering, activation fn, regularization, powerful NN components, model architectures, calibration
